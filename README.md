@@ -1,8 +1,8 @@
-# Plagiarism Detection and Paraphrase Check
+# Plagiarism Detection 
 
 ## Overview
 
-This project implements a **Plagiarism Detection System** using machine learning, NLP, and a **Paraphrase Detection** mechanism via an external API. The primary goal of the system is to determine whether a given text is plagiarized by analyzing it in relation to a dataset of original and plagiarized content. Additionally, it integrates a paraphrasing API to check if the input text has been reworded or paraphrased. The system leverages a machine learning model to predict whether the text is plagiarized and visualizes the results through a cosine similarity measure.
+This project implements a **Plagiarism Detection System** using machine learning, NLP, mechanism via an external API. The primary goal of the system is to determine whether a given text is plagiarized by analyzing it in relation to a dataset of original and plagiarized content. Additionally, it integrates a paraphrasing API to check if the input text has been reworded or paraphrased. The system leverages a machine learning model to predict whether the text is plagiarized and visualizes the results through a cosine similarity measure.
 
 ## Project Description
 
