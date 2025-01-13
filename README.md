@@ -34,4 +34,10 @@ Before running the project, ensure that you have the following Python packages i
 You can install the necessary dependencies using the following pip command:
 
 ```bash
-pip install requests nltk scikit-learn pandas joblib matplotlib seaborn
+pip install requests
+pip install nltk
+pip install scikit-learn
+pip install pandas
+pip install joblib
+pip install matplotlib
+pip install seaborn
